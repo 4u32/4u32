@@ -1,132 +1,156 @@
-👋 Hi, I’m Abdelmoneam Elkady
+# Hi, I'm Abdelmoneam Elkady 👋
 
-💻 Computer Science Student | Aspiring Software Developer
+### 💻 Computer Science Student | C++ Developer
 
-Welcome to my GitHub profile!
-I’m passionate about programming, problem-solving, and continuously improving my skills in software development.
+I'm a Computer Science student passionate about programming, problem solving, and software development.  
+I enjoy learning new programming concepts and building projects that help me improve my skills and gain practical experience.
 
-⸻
+---
 
-🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 Computer Science Student
-* 💻 Interested in Software Development
-* 🧠 Currently improving my programming and problem-solving skills
-* 🔭 Working on C++ and Object-Oriented Programming projects
-* 🌱 Learning Data Structures and Algorithms
-* 🎯 My goal is to become a professional Software Developer
+- 🎓 Computer Science Student
+- 💻 Currently focused on C++ programming
+- 🧠 Interested in Problem Solving and Algorithms
+- 📚 Learning Object-Oriented Programming and Data Structures
+- 🔗 Practicing Linked Lists and Queues
+- 🚀 Building projects to improve my programming skills
+- 🌱 Continuously learning and improving as a developer
 
-⸻
+---
 
-🛠️ Languages & Technologies
+## 🛠️ Tools & Technologies
 
-💻 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,c" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
 </p>
 
-📚 Currently Learning
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,git,github" />
+## 💻 Technical Skills
+
+### Programming
+
+- C++
+- Object-Oriented Programming (OOP)
+- Problem Solving
+
+### Data Structures
+
+- Arrays
+- Linked Lists
+- Queues
+
+### Programming Concepts
+
+- Classes & Objects
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Pointers
+- Functions
+- Dynamic Memory
+- Loops & Conditional Statements
+
+### Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- Code::Blocks
+
+---
+
+## 🚀 Projects
+
+### 🏨 Hotel Management System
+
+A C++ project built using Object-Oriented Programming concepts.
+
+Features include:
+
+- 🛏️ Room Management
+- 👤 Customer Management
+- 📅 Room Booking
+- 💳 Payment System
+- 🔄 Queue Management
+- 🧠 OOP Concepts
+
+---
+
+### 🎮 Tic-Tac-Toe Game
+
+A console-based two-player game built with C++.
+
+Features include:
+
+- 👥 Two Players
+- ❌⭕ X and O Symbols
+- 🎮 3×3 Game Board
+- 🏆 Winner Detection
+- 🤝 Draw Detection
+- 🔒 Input Validation
+
+---
+
+### ❄️ Air Conditioner Controller
+
+A simple C++ project that simulates basic Air Conditioner functionality.
+
+Features include:
+
+- 🔌 Turn ON/OFF
+- 🌡️ Increase Temperature
+- 🌡️ Decrease Temperature
+- 🔒 Temperature Limits
+- 🧠 Classes and Objects
+
+---
+
+## 🎯 Currently Learning
+
+- 📚 Data Structures
+- 🧠 Algorithms
+- 💡 Problem Solving
+- 🏗️ Advanced Object-Oriented Programming
+- 🔗 Git & GitHub
+
+---
+
+## 🎯 Future Goals
+
+- 🚀 Improve my C++ skills
+- 🧠 Become better at Problem Solving
+- 📚 Master Data Structures and Algorithms
+- 🏗️ Build larger and more complex projects
+- 🐍 Learn Python
+- 🌐 Learn Web Development
+- 💻 Become a professional Software Developer
+
+---
+
+## 📫 Contact With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/abdelmoneam-elkady-616851434">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
-* Object-Oriented Programming (OOP)
-* Data Structures
-* Algorithms
-* Problem Solving
-* Software Development
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/abdelmoneam-elkady-616851434)
 
-⸻
+---
 
-📂 Featured Projects
+## 🚀 My Projects
 
-🏨 Hotel Management System
+You can find all my projects and repositories here:
 
-A C++ project designed to manage hotel operations.
+🔗 [View All Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
 
-Features:
-
-* 🛏️ Room Management
-* 👤 Customer Management
-* 📅 Room Booking
-* 💳 Payment System
-* 🧾 Booking Management
-* 📊 Object-Oriented Programming Concepts
-
-Technologies:
-
-C++ • OOP • STL
-
-⸻
-
-🧠 Skills
-
-C++                 ████████░░
-Object Oriented Programming ████████░░
-Data Structures     ██████░░░░
-Algorithms          ██████░░░░
-Problem Solving     ████████░░
-Git & GitHub        ██████░░░░
-
-⸻
-
-📊 GitHub Statistics
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
 
-⸻
-
-💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-⸻
-
-🎯 Current Goals
-
-* 📚 Improve my C++ skills
-* 🧠 Master Object-Oriented Programming
-* 🔗 Learn Data Structures and Algorithms
-* 💻 Build more real-world projects
-* 🚀 Improve my GitHub portfolio
-* 👨‍💻 Become a professional Software Developer
-
-⸻
-
-📫 Contact With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/abdelmoneam-elkady-616851434">
-<img src="https://img.shields.io/badge/LinkedIn-Abdelmoneam%20Elkady-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
-💼 Feel free to connect with me!
-
-I’m always interested in:
-
-* 🤝 Collaboration
-* 💻 Programming Projects
-* 🧠 Learning Opportunities
-* 🚀 Software Development
-
-⸻
-
-⚡ Fun Fact
-
-“gugugaga”
-
-⸻
-
-<p align="center">
-
-⭐ Feel free to explore my repositories and follow my journey!
+💻 Always learning. Always building. Always improving.
 
 </p>
